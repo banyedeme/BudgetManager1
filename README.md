@@ -17,7 +17,6 @@ Clone the Repository:
     git clone https://github.com/banyedeme/BudgetManager1.git
     cd BudgetManager1
 
-    ![Screenshot from 2024-03-07 16-58-50](https://github.com/banyedeme/BudgetManager1/assets/128420320/c0160cd3-df1d-4d47-a1c6-cda3ccbc504d)
 
 
     Technologies
