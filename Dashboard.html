@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="UTF-8"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="stylesheet" type="text/css" href="style1.css"/>
+      <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet"/>
+
+       <script defer src="script1.js"></script>
+       <!-- <script defer type="text/javascript" src="../BudgetManager/script1.js"></script> -->
+      <title> BudgetManager </title>
+  </head>
+  <body>
+      <!-- user profile ===
+        <header class="header">
+   <!-- <div class="logo">
+      <a href="#">EasyPay</a>
+      <div class="search_box">
+        <input type="text" placeholder="Search EasyPay">
+        <i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+      </div>
+    </div>
+    <div class="header-icons">
+      <i class="fas fa-bell"></i>
+      <div class="account">
+        <img src="./pic/img.jpg" alt="">
+        <h4>Jhon Viek</h4>
+      </div>
+    </div>
+	</header>-->
+      <div class="butter">
+          <h2>BudgetManager</h2>
+	  <div class="error_message">
+	   <p>Please Enter Budget Amount | Greater than 0</p>
+	  </div>
+        <div class="budget_content">
+	  <div class="your_budget">
+	      <form>
+	          <label for="budget">Your Budget:</label>
+		  <input type="number" placeholder="Enter Budget Amount" class="budget_input">
+		  <button class="btn" id="btn_budget">Calculate</button>
+	      </form>
+	  </div>
+	  <div class="your_expenses">
+              <form>
+                  <label for="expenses">Expenses Details:</label>
+                  <input type="text" placeholder="Enter Expense Desc!" class="expenses_input">
+		  <input type="number" placeholder="Enter Expense Amount" class="expenses_amount">
+                  <button class="btn" id="btn_expenses">Add Expenses</button>
+              </form>
+          </div>
+	</div>
+	<!--===Cards Start ===-->
+        <ul class="cards">
+	   <li>
+	       <i class="bx bx-money"></i>
+	       <span class="info">
+	           <h3><span>$</span><span class="budget_card">0</span></h3>
+		   <p>Budget</p>
+	       </span>
+	   </li>
+	   <li>
+	       <i class="bx bx-credit-card"></i>
+	       <span class="info">
+	           <h3><span>$</span><span class="expenses_card">0</span></h3>
+		   <p>Expenses</p>
+	       </span>
+	   </li>
+	   <li>
+	       <i class="bx bx-dollar"></i>
+	       <span class="info">
+	           <h3><span>$</span><span class="balance_card">0</span></h3>
+		   <p>Balance</p>
+	       </span>
+	   </li>
+	</ul>
+	<!--=== Cards Close ====-->
+	<!-- ===== Table Content Start ========= -->
+	<div class="tbl_content">
+	    <h3>Budget Details</h3>
+	    <div class="tbl_data">
+		<!--<ul class="tbl_tr_content">
+		    <li>1</li>
+		    <li>Gaming Mouse</li>
+		    <li><span>$</span>600</li>
+		    <li>
+		        <button type="button" class="btn_edit">Edit</button>
+		        <button type="button" class="btn_delete">Delete</button>
+		    </li>
+		</ul> --->
+		</div>
+	  </div>
+	<!-- ===== Table End =================== -->
+
+      </div>
+  </body>
+</html>
