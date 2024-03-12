@@ -18,6 +18,7 @@ Clone the Repository:
     cd BudgetManager1
 <h2>DEMO:</h2>
     Checkout the Web Application: https://budgetmanager-app.onrender.com/
+    
     Checkout the Landing Page : 
 
 ![Screenshot from 2024-03-07 16-58-50](https://github.com/banyedeme/BudgetManager1/assets/128420320/3ce9d134-7a47-4b1b-aa3c-07c5bedc97fd)
