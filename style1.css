@@ -38,36 +38,11 @@ body {
   overflow-x: hidden;
 }
 
-
-
-.header-icons{
-  display: flex;
-  align-items: center;
-}
-.header-icons i{
-  margin-right: 2rem;
-  cursor: pointer;
-}
-.header-icons .account{
-  width: 130px;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-.header-icons .account img{
-  width: 35px;
-  height: 35px;
-  cursor: pointer;
-  border-radius: 50%;
-}
-
-
-
-
-.butter h2 {
+.butter h3 {
   padding: 2rem 0;
-  font-size: 4rem;
-  text-align: center;
+  font-size: 2rem;
+  margin-left: 2rem;
+  text-align: left;
   color: var(--dark);
 }
 .error_message {
@@ -181,7 +156,7 @@ color: var(--primary);
 /* ======Start Table Content ========*/
 .tbl_content {
   padding: 2rem;
-  background-color: var(--light);
+  background-color: var(--light-warning);
   margin: 1rem 2rem;
   border-radius: 5px;
 }

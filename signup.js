@@ -63,7 +63,7 @@ function validateLogin() {
     if (email !== "" && password.length >= 8) {
         alert("Login successful");
         // Redirect to another page after successful login
-        window.location.replace("dashboard.html");
+        window.location.replace("Dashboard.html");
         return false;
     } else {
         alert("Login failed. Please enter a valid email and password.");
@@ -82,7 +82,7 @@ function validateSignup() {
     if (firstName !== "" && lastName !== "" && email !== "" && password.length >= 8 && password === confirmPassword) {
         alert("Signup successful");
         // Redirect to another page after successful signup
-        window.location.replace("dashboard.html");
+        window.location.replace("login.html");
         return false;
     } else {
         alert("Signup failed. Please ensure all fields are filled correctly and passwords match.");
