@@ -21,7 +21,7 @@ Clone the Repository:
     
     Checkout the Landing Page : https://budgetmanager.my.canva.site/
 
-![Screenshot from 2024-03-07 16-58-50](https://github.com/banyedeme/BudgetManager1/assets/128420320/3ce9d134-7a47-4b1b-aa3c-07c5bedc97fd)
+![Screenshot from 2024-03-20 14-21-56](https://github.com/banyedeme/BudgetManager1/assets/128420320/2a526d2b-9d18-4c3f-aed0-569b549c824a)
 
 
    <h3>Technologies </h3>
