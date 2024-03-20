@@ -19,9 +19,9 @@ Clone the Repository:
 <h2>DEMO:</h2>
     Checkout the Web Application: https://budgetmanager-app.onrender.com/
     
-    Checkout the Landing Page : https://budgetmanager.my.canva.site/
+    Landing Page : https://budgetmanager.my.canva.site/
 
-![Screenshot from 2024-03-20 14-21-56](https://github.com/banyedeme/BudgetManager1/assets/128420320/2a526d2b-9d18-4c3f-aed0-569b549c824a)
+![Screenshot from 2024-03-20 14-21-56](https://github.com/banyedeme/BudgetManager1/assets/128420320/3ed8d313-8b62-4686-853d-4a2508332022)
 
 
    <h3>Technologies </h3>
